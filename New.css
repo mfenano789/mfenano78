@@ -6,7 +6,13 @@
 <body>
 <style>
 
-<na>
+<nav>
+               <ul>
+                   <li>  <a href="index.html"> home page </a> </li>
+                   <li>  <a href="planet.html"> Planet file </a> </li>
+                   <li>  <a href="file.html"> file page </a> </li>
+               </ul>
+           </nav>
 
 h1 {
   background-color: lightblue;
