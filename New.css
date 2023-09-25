@@ -1,27 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>New!</title>
-</head>
-<body>
-<style>
-
-<nav>
-               <ul>
-                   <li>  <a href="index.html"> home page </a> </li>
-                   <li>  <a href="planet.html"> Planet file </a> </li>
-                   <li>  <a href="file.html"> file page </a> </li>
-               </ul>
-           </nav>
-
 h1 {
   background-color: red;
 }
-h1 {
-  color: Blue;
-}
 
 
-</style>
-</body>
-</html>
+
